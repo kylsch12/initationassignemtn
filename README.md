@@ -1,11 +1,13 @@
 <html>
 <body>
+ <div>
   img {
   filter: invert;
 }
   <img src= butterfly.jpg> 
   </div>
-   <img src= dinosaur.png 
+  
+  <img src= dinosaur.png>
    <img src= football_field.jpg> 
    <img src= penguins.jpg> 
    <img src= seagull.png> 
